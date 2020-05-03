@@ -35,3 +35,7 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+
+
+This is my website. It will be about the NFL, the Seahawks and about me in general. I created this website to share with people my thoughts and opinions on the happenings of the NFL and the Seahawks, my favorite NFL team. I have created a statistic, which measures the impact a DB has on a given game, based on separation allowed and zone/man played. This statistic has been successful, as the leaders have been Stephon Gilmore, Tre'Davious White and many others you would expect at the top of a DB list. I'm excited you found my website, and I hope you will continue reading as I update it. Thank you.
